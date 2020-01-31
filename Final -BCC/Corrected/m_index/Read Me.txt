@@ -1,0 +1,1 @@
+It creates an excel sheet consisting all value of taylor Factor (m) for all possible combination of e4, e5 and e6.

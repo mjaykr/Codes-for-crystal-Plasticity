@@ -1,0 +1,1 @@
+This program calculates the minimum taylor factor for individual grain varying e4 or e5 or e6 from strain matrix. The matrix corresponding to minimum Taylor Factor is allotted for that particular grain.

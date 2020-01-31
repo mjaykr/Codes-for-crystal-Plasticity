@@ -1,0 +1,12 @@
+Taylor Full Constraint
+Taylor Full Constraint with Strain_sensitivity
+Pancake (e5 and e6 relaxed)
+Pancake Custom (e4 and e5 relaxed)
+Pancake Custom (e4 and e6 relaxed)
+Pancake Custom (e4, e5 and e6 relaxed)
+Lath original e5 
+Lath custom e4 
+Lath custom e6 
+min_m_e4_e5_e6 (Calculate m varying e4,e5 and e6 and lowest one chosen)
+Lamel e4 and e5 relaxed
+

@@ -1,0 +1,1 @@
+This program calculates the minimum of e4 or e5 or e6
